@@ -1,0 +1,45 @@
+JS
+
+Datatypes:{                 
+    //primitive
+    --numbers
+    --bigint
+    --string  => " "
+    --boolean => true/false
+    --null => standalone value / also an object
+    --undefined  => let a;  // yo vanako variable define garako but value nwdeko ---let a= 50 yo chai defined ho
+    --symbol => unique
+
+
+         datatype check              // output
+    console.log(typeof age);        // number
+    console.log(typeof undefined); // undefined
+    console.log(typeof null);     //  object
+    
+}
+
+
+
+PS C:\Users\rijal\OneDrive\Desktop\learning> pwd       // path ko lagi
+
+Path
+----
+C:\Users\rijal\OneDrive\Desktop\learning
+
+
+PS C:\Users\rijal\OneDrive\Desktop\learning> cd absent     // direct folder vitra jana  
+PS C:\Users\rijal\OneDrive\Desktop\learning\absent> cd ..   // to exit from the vitra gako folder
+PS C:\Users\rijal\OneDrive\Desktop\learning> 
+
+
+
+
+
+"use strict"; for new version of JS    ----   // but it automatically configured new version nowadays  
+
+
+install the react
+installnpm create vite@latest my-app
+url
+localhost:5173
+how to run 

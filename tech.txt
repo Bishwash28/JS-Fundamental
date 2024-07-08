@@ -1,0 +1,10 @@
+ ctrl + B = to hide the side bar 
+ ctrl + / =  for split window   -- ctrl + w for close
+ ctrl + shift L = for taking cursor in same match-word for whole program // for slection ctrl + D
+
+ shift alt down= for duplicate the line
+
+ ctrl shift p = for command powershell
+
+ windows + V= for clipboard
+ windows + up/down/right left for maximize and control window
